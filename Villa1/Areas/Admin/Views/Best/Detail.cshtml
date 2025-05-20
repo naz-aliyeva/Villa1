@@ -1,0 +1,40 @@
+﻿@model Best
+<div class="bg-secondary rounded h-100 p-4">
+    <h6 class="mb-4">Responsive Table</h6>
+    <div class="table-responsive">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">ImgUrl</th>
+                    <th scope="col">Category</th>
+                    <th scope="col">Price</th>
+                    <th scope="col">Address</th>
+                    <th>Actions</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                
+                    <tr>
+                        <th scope="row">1</th>
+                        <td>@Model.Id</td>
+                        <td>
+                            <img src="~/assets/images/@Model.ImgUrl" alt="Alternate Text" />
+                        </td>
+                        <td>@Model.CAtegory</td>
+                        <td>$ @Model.Price</td>
+                        <td>@Model.Address</td>
+                        <td>
+                            <a asp-area="Admin" asp-controller="Best" class="btn btn-success rounded-pill m-2">Deatails</a>
+                            <a asp-area="Admin" asp-controller="Best" class="btn btn-warning rounded-pill m-2">Warning</a>
+                            <a asp-area="Admin" asp-controller="Best" asp- class="btn btn-danger rounded-pill m-2">Danger</a>
+                        </td>
+                    </tr>
+             
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<!-- Table End -->
