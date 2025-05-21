@@ -1,6 +1,7 @@
 ﻿@model List<Best>
 <div class="bg-secondary rounded h-100 p-4">
     <h6 class="mb-4">Responsive Table</h6>
+<a asp-area="Admin" asp-controller="Best" asp-action="Create">Create Best</a>
     <div class="table-responsive">
         <table class="table">
             <thead>
@@ -21,7 +22,7 @@
                         <th scope="row">1</th>
                         <td>@item.Id</td>
                         <td>
-                            <img src="~/assets/images/@item.ImgUrl" alt="Alternate Text" />
+                            <img src="~/assets/UploadImages/@item.ImgUrl" alt="Alternate Text" />
                         </td>
                         <td>@item.CAtegory</td>
                         <td>@item.Price</td>

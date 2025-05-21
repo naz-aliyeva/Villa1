@@ -1,85 +1,101 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ca r221.14\\Desktop\\Villa1\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Villa1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|c:\\users\\ca r221.14\\desktop\\villa1\\villa1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|solutionrelative:villa1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|c:\\users\\ca r221.14\\desktop\\villa1\\villa1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|solutionrelative:villa1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|c:\\users\\ca r221.14\\desktop\\villa1\\villa1\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|solutionrelative:villa1\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|c:\\users\\ca r221.14\\desktop\\villa1\\villa1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|c:\\users\\user\\desktop\\villa1\\villa1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|solutionrelative:villa1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|c:\\users\\ca r221.14\\desktop\\villa1\\villa1\\areas\\admin\\views\\best\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|solutionrelative:villa1\\areas\\admin\\views\\best\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|c:\\users\\user\\desktop\\villa1\\villa1\\viewmodels\\bestupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|solutionrelative:villa1\\viewmodels\\bestupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|c:\\users\\ca r221.14\\desktop\\villa1\\villa1\\areas\\admin\\views\\best\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|solutionrelative:villa1\\areas\\admin\\views\\best\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|c:\\users\\ca r221.14\\desktop\\villa1\\villa1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|solutionrelative:villa1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|c:\\users\\ca r221.14\\desktop\\villa1\\villa1\\areas\\admin\\controllers\\bestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|c:\\users\\user\\desktop\\villa1\\villa1\\areas\\admin\\controllers\\bestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|solutionrelative:villa1\\areas\\admin\\controllers\\bestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|c:\\users\\ca r221.14\\desktop\\villa1\\villa1\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|solutionrelative:villa1\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|c:\\users\\user\\desktop\\villa1\\villa1\\areas\\admin\\views\\best\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|solutionrelative:villa1\\areas\\admin\\views\\best\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|c:\\users\\ca r221.14\\desktop\\villa1\\villa1\\models\\best.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|solutionrelative:villa1\\models\\best.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|c:\\users\\user\\desktop\\villa1\\villa1\\areas\\admin\\views\\best\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|solutionrelative:villa1\\areas\\admin\\views\\best\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|c:\\users\\ca r221.14\\desktop\\villa1\\villa1\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|solutionrelative:villa1\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|c:\\users\\ca r221.14\\desktop\\villa1\\villa1\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|c:\\users\\user\\desktop\\villa1\\villa1\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|solutionrelative:villa1\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|c:\\users\\ca r221.14\\desktop\\villa1\\villa1\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|solutionrelative:villa1\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|c:\\users\\user\\desktop\\villa1\\villa1\\areas\\admin\\views\\best\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|solutionrelative:villa1\\areas\\admin\\views\\best\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|c:\\users\\ca r221.14\\desktop\\villa1\\villa1\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|solutionrelative:villa1\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|c:\\users\\user\\desktop\\villa1\\villa1\\viewmodels\\bestcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|solutionrelative:villa1\\viewmodels\\bestcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|c:\\users\\ca r221.14\\desktop\\villa1\\villa1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|solutionrelative:villa1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|c:\\users\\user\\desktop\\villa1\\villa1\\models\\best.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|solutionrelative:villa1\\models\\best.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|c:\\users\\ca r221.14\\desktop\\villa1\\villa1\\villa1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|c:\\users\\user\\desktop\\villa1\\villa1\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|solutionrelative:villa1\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|c:\\users\\user\\desktop\\villa1\\villa1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|solutionrelative:villa1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|c:\\users\\user\\desktop\\villa1\\villa1\\villa1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|solutionrelative:villa1\\villa1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|c:\\users\\ca r221.14\\desktop\\villa1\\villa1\\migrations\\20250520165506_createtablebests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|c:\\users\\user\\desktop\\villa1\\villa1\\areas\\admin\\views\\best\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|solutionrelative:villa1\\areas\\admin\\views\\best\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|c:\\users\\user\\desktop\\villa1\\villa1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|solutionrelative:villa1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|c:\\users\\user\\desktop\\villa1\\villa1\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|solutionrelative:villa1\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|c:\\users\\user\\desktop\\villa1\\villa1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|solutionrelative:villa1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|c:\\users\\user\\desktop\\villa1\\villa1\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|solutionrelative:villa1\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|c:\\users\\user\\desktop\\villa1\\villa1\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|solutionrelative:villa1\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|c:\\users\\user\\desktop\\villa1\\villa1\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|solutionrelative:villa1\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|c:\\users\\user\\desktop\\villa1\\villa1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|solutionrelative:villa1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|c:\\users\\user\\desktop\\villa1\\villa1\\migrations\\20250520165506_createtablebests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|solutionrelative:villa1\\migrations\\20250520165506_createtablebests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|c:\\users\\ca r221.14\\desktop\\villa1\\villa1\\migrations\\20250520164744_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|c:\\users\\user\\desktop\\villa1\\villa1\\migrations\\20250520164744_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|solutionrelative:villa1\\migrations\\20250520164744_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|c:\\users\\ca r221.14\\desktop\\villa1\\villa1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|c:\\users\\user\\desktop\\villa1\\villa1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|solutionrelative:villa1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|c:\\users\\ca r221.14\\desktop\\villa1\\villa1\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|c:\\users\\user\\desktop\\villa1\\villa1\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD94D3D5-9C2E-4388-BC6C-28FC0EFF3580}|Villa1\\Villa1.csproj|solutionrelative:villa1\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -90,79 +106,145 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BestController.cs",
-              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Villa1\\Villa1\\Areas\\Admin\\Controllers\\BestController.cs",
-              "RelativeDocumentMoniker": "Villa1\\Areas\\Admin\\Controllers\\BestController.cs",
-              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Villa1\\Villa1\\Areas\\Admin\\Controllers\\BestController.cs",
-              "RelativeToolTip": "Villa1\\Areas\\Admin\\Controllers\\BestController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA4AAAAkAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "BestUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\ViewModels\\BestUpdateVM.cs",
+              "RelativeDocumentMoniker": "Villa1\\ViewModels\\BestUpdateVM.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\ViewModels\\BestUpdateVM.cs",
+              "RelativeToolTip": "Villa1\\ViewModels\\BestUpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T18:15:47.545Z"
+              "WhenOpened": "2025-05-21T18:34:15.466Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Villa1\\Villa1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Villa1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Villa1\\Villa1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Villa1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAJgBAAAAAAAAAADwvxMAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\Areas\\Admin\\Views\\Best\\Create.cshtml",
+              "RelativeDocumentMoniker": "Villa1\\Areas\\Admin\\Views\\Best\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\Areas\\Admin\\Views\\Best\\Create.cshtml",
+              "RelativeToolTip": "Villa1\\Areas\\Admin\\Views\\Best\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAACIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T18:12:20.424Z"
+              "WhenOpened": "2025-05-21T15:53:59.044Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Best.cs",
-              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Villa1\\Villa1\\Models\\Best.cs",
-              "RelativeDocumentMoniker": "Villa1\\Models\\Best.cs",
-              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Villa1\\Villa1\\Models\\Best.cs",
-              "RelativeToolTip": "Villa1\\Models\\Best.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "BestController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\Areas\\Admin\\Controllers\\BestController.cs",
+              "RelativeDocumentMoniker": "Villa1\\Areas\\Admin\\Controllers\\BestController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\Areas\\Admin\\Controllers\\BestController.cs",
+              "RelativeToolTip": "Villa1\\Areas\\Admin\\Controllers\\BestController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAIAwwG0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T15:01:20.773Z"
+              "WhenOpened": "2025-05-20T18:15:47.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\Areas\\Admin\\Views\\Best\\Update.cshtml",
+              "RelativeDocumentMoniker": "Villa1\\Areas\\Admin\\Views\\Best\\Update.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\Areas\\Admin\\Views\\Best\\Update.cshtml",
+              "RelativeToolTip": "Villa1\\Areas\\Admin\\Views\\Best\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T17:01:23.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\Areas\\Admin\\Views\\Best\\Index.cshtml",
+              "RelativeDocumentMoniker": "Villa1\\Areas\\Admin\\Views\\Best\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\Areas\\Admin\\Views\\Best\\Index.cshtml",
+              "RelativeToolTip": "Villa1\\Areas\\Admin\\Views\\Best\\Index.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAvwBcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T18:15:59.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Villa1\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Villa1\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:09:56.407Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Villa1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Villa1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABcBAAAAAAAAAAAMwCABAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T15:03:57.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BestCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\ViewModels\\BestCreateVM.cs",
+              "RelativeDocumentMoniker": "Villa1\\ViewModels\\BestCreateVM.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\ViewModels\\BestCreateVM.cs",
+              "RelativeToolTip": "Villa1\\ViewModels\\BestCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:21:43.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Best.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\Models\\Best.cs",
+              "RelativeDocumentMoniker": "Villa1\\Models\\Best.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\Models\\Best.cs",
+              "RelativeToolTip": "Villa1\\Models\\Best.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:01:20.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Villa1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Villa1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T18:13:00.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Villa1\\Villa1\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Villa1\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Villa1\\Villa1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Villa1\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -171,23 +253,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Villa1\\Villa1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Villa1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Villa1\\Villa1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Villa1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T18:12:41.42Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 14,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Villa1\\Villa1\\Contexts\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\Contexts\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Villa1\\Contexts\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Villa1\\Villa1\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\Contexts\\AppDbContext.cs",
               "RelativeToolTip": "Villa1\\Contexts\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -195,23 +265,73 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Villa1\\Villa1\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Villa1\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Villa1\\Villa1\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Villa1\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAB8BAAAAAAAAAAAwwHgBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T15:03:57.816Z"
+              "DocumentIndex": 11,
+              "Title": "Villa1.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\Villa1.csproj",
+              "RelativeDocumentMoniker": "Villa1\\Villa1.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\Villa1.csproj",
+              "RelativeToolTip": "Villa1\\Villa1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-20T15:02:48.335Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\Areas\\Admin\\Views\\Best\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Villa1\\Areas\\Admin\\Views\\Best\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\Areas\\Admin\\Views\\Best\\Detail.cshtml",
+              "RelativeToolTip": "Villa1\\Areas\\Admin\\Views\\Best\\Detail.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T19:18:07.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\Program.cs",
+              "RelativeDocumentMoniker": "Villa1\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\Program.cs",
+              "RelativeToolTip": "Villa1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:55:48.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Villa1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Villa1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T18:12:41.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Villa1\\Villa1\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Villa1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Villa1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAJgBAAAAAAAAAADwvxMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T18:12:20.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Villa1\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Villa1\\Villa1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Villa1\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAFcAAAAAAAAAAAAswHcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -219,48 +339,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Villa1\\Villa1\\Areas\\Admin\\Views\\Best\\Index.cshtml",
-              "RelativeDocumentMoniker": "Villa1\\Areas\\Admin\\Views\\Best\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Villa1\\Villa1\\Areas\\Admin\\Views\\Best\\Index.cshtml",
-              "RelativeToolTip": "Villa1\\Areas\\Admin\\Views\\Best\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T18:15:59.055Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Villa1\\Villa1\\Areas\\Admin\\Views\\Best\\Detail.cshtml",
-              "RelativeDocumentMoniker": "Villa1\\Areas\\Admin\\Views\\Best\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Villa1\\Villa1\\Areas\\Admin\\Views\\Best\\Detail.cshtml",
-              "RelativeToolTip": "Villa1\\Areas\\Admin\\Views\\Best\\Detail.cshtml",
-              "ViewState": "AgIAAAgAAAAAAAAAAADwvxwAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T19:18:07.32Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Villa1\\Villa1\\Program.cs",
-              "RelativeDocumentMoniker": "Villa1\\Program.cs",
-              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Villa1\\Villa1\\Program.cs",
-              "RelativeToolTip": "Villa1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T14:55:48.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Villa1\\Villa1\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "Villa1\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Villa1\\Villa1\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeToolTip": "Villa1\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -268,35 +351,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Villa1\\Villa1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Villa1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Villa1\\Villa1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Villa1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T18:13:00.577Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Villa1\\Villa1\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "Villa1\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Villa1\\Villa1\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "Villa1\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T18:09:56.407Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Villa1\\Villa1\\ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "Villa1\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Villa1\\Villa1\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\ScaffoldingReadMe.txt",
               "RelativeToolTip": "Villa1\\ScaffoldingReadMe.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -304,11 +363,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "20250520165506_CreateTableBests.cs",
-              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Villa1\\Villa1\\Migrations\\20250520165506_CreateTableBests.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\Migrations\\20250520165506_CreateTableBests.cs",
               "RelativeDocumentMoniker": "Villa1\\Migrations\\20250520165506_CreateTableBests.cs",
-              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Villa1\\Villa1\\Migrations\\20250520165506_CreateTableBests.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\Migrations\\20250520165506_CreateTableBests.cs",
               "RelativeToolTip": "Villa1\\Migrations\\20250520165506_CreateTableBests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -316,11 +375,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "20250520164744_initial.cs",
-              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Villa1\\Villa1\\Migrations\\20250520164744_initial.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\Migrations\\20250520164744_initial.cs",
               "RelativeDocumentMoniker": "Villa1\\Migrations\\20250520164744_initial.cs",
-              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Villa1\\Villa1\\Migrations\\20250520164744_initial.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\Migrations\\20250520164744_initial.cs",
               "RelativeToolTip": "Villa1\\Migrations\\20250520164744_initial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -328,23 +387,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Villa1.csproj",
-              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Villa1\\Villa1\\Villa1.csproj",
-              "RelativeDocumentMoniker": "Villa1\\Villa1.csproj",
-              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Villa1\\Villa1\\Villa1.csproj",
-              "RelativeToolTip": "Villa1\\Villa1.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-20T15:02:48.335Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Villa1\\Villa1\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Villa1\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Villa1\\Villa1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Villa1\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -352,25 +399,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "BaseModel.cs",
-              "DocumentMoniker": "C:\\Users\\ca r221.14\\Desktop\\Villa1\\Villa1\\Models\\BaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\Models\\BaseModel.cs",
               "RelativeDocumentMoniker": "Villa1\\Models\\BaseModel.cs",
-              "ToolTip": "C:\\Users\\ca r221.14\\Desktop\\Villa1\\Villa1\\Models\\BaseModel.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Villa1\\Villa1\\Models\\BaseModel.cs",
               "RelativeToolTip": "Villa1\\Models\\BaseModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T15:00:28.11Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 129,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             }
           ]
         }

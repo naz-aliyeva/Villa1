@@ -1,0 +1,39 @@
+﻿@model BestUpdateVM
+
+<div class="col-sm-12 col-xl-6">
+                        <div class="bg-secondary rounded h-100 p-4">
+                            <h6 class="mb-4">Create  Form</h6>
+                            <form asp-area="Admin" asp-controller="Best" asp-action="Update" method="post"enctype="multipart/form-data">
+                              <div class="mb-3">
+                                   <td class="py-1">
+                                <img src="~/assets/UploadImages/@Model.ImgUrl" alt="Alternate Text" />
+                                </td>
+
+                              </div>
+                                <div class="mb-3">
+                                    <label for="exampleInputPassword1" class="form-label">Img Url</label>
+                                    <input asp-for="ImgFile" class="form-control" id="exampleInputPassword1">
+                                    <span class="text-danger" asp-validation-for="ImgFile"> </span>
+                                </div>
+
+                                <div class="mb-3">
+                                    <label for="exampleInputPassword1" class="form-label">Category</label>
+                                    <input asp-for="CAtegory" class="form-control" id="exampleInputPassword1">
+                                    <span class="text-danger" asp-validation-for="CAtegory"> </span>
+                                </div>
+                                <div class="mb-3">
+                                    <label for="exampleInputPassword1" class="form-label">Price</label>
+                                    <input asp-for="Price" class="form-control" id="exampleInputPassword1">
+                                     <span class="text-danger" asp-validation-for="Price"> </span>
+                                </div>
+                                <div class="mb-3">
+                                   <label for="exampleInputPassword1" class="form-label">Address</label>
+                                   <input asp-for="Address" class="form-control" id="exampleInputPassword1">
+                                   <span class="text-danger" asp-validation-for="Address"> </span>
+                                </div>
+
+
+                                  <button type="submit" class="btn btn-warning">Update</button>
+                            </form>
+                        </div>
+                    </div>
